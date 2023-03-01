@@ -105,7 +105,7 @@ All the output from the above notebooks are saved under the [`output`](./codes/o
 
 The codes for the final selected model have been run using MLFlow to track the metrics. These codes are contained in the [`mlflow`](./mlflow/) folder.
 
-The final selected model was deployed using Streamlit and the codes are contained in the [`streamlit`](./streamlit/) folder.
+The final selected model was deployed using Streamlit and the codes are contained in the [`streamlit`](https://github.com/joanne-ho-xq/streamlit-apps) folder.
 
 **Due to the storage limit of Github, the `output` and `mlflow` folders are updated on [Google Drive](https://drive.google.com/drive/folders/15NQDBwd2ifhzPg-Yp37XV69JGe_BbLrw?usp=share_link)**
 
