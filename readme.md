@@ -109,7 +109,7 @@ The final selected model was deployed using Streamlit and the codes are containe
 
 **Due to the storage limit of Github, the `output` and `mlflow` folders are updated on [Google Drive](https://drive.google.com/drive/folders/15NQDBwd2ifhzPg-Yp37XV69JGe_BbLrw?usp=share_link)**
 
-![Process](https://drive.google.com/file/d/15YTT3kSJyVGOER0YFi0jBEWpQprIsCYf/view?usp=share_link)
+![Process](./images/Screenshot 2023-03-01 at 5.43.59 PM.png)
 
 ---
 
